@@ -8,7 +8,7 @@ Membuat aplikasi Law Firm menggunakan Django versi 2.2
 
         modified:   .gitignore
         modified:   README.md
-        
+
 
 #### 2. SETUP - checking python and pip versions
 
@@ -17,3 +17,17 @@ Membuat aplikasi Law Firm menggunakan Django versi 2.2
 
         hp@ING:DjLawFirm ~ pip -V
         pip 23.1.2 from C:\python\Python39\lib\site-packages\pip (python 3.9)
+        
+
+#### 3. SETUP - create virtual environment
+
+
+        ing@ing:/mnt/f/_ingafter65/Django-Law-Firm$ tree -d
+        .
+        ├── _docs
+        └── venv3942
+            ├── Include
+            ├── Lib
+            │  └── site-packages
+            ... 
+            └── Scripts
