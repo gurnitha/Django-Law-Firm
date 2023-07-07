@@ -31,3 +31,10 @@ Membuat aplikasi Law Firm menggunakan Django versi 2.2
             │  └── site-packages
             ... 
             └── Scripts
+        
+
+#### 4. SETUP - activate venv3942
+
+        hp@ING:DjLawFirm ~ venv3942\Scripts\activate
+
+        (djlawfirm) hp@ING:DjLawFirm ~
