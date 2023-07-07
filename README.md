@@ -42,6 +42,7 @@ Membuat aplikasi Law Firm menggunakan Django versi 2.2
 
 #### 5. SETUP - install django version 4.2
 
+
         (djlawfirm) hp@ING:DjLawFirm ~ pip install django==4.2
         Collecting django==4.2
           Using cached Django-4.2-py3-none-any.whl (8.0 MB)
@@ -57,4 +58,47 @@ Membuat aplikasi Law Firm menggunakan Django versi 2.2
         Successfully installed asgiref-3.7.2 django-4.2 sqlparse-0.4.4 typing-extensions-4.7.1 tzdata-2023.3
         WARNING: You are using pip version 21.1.1; however, version 23.1.2 is available.
         You should consider upgrading via the 'f:\_ingafter65\django-law-firm\venv3942\scripts\python.exe -m pip install --upgrade pip command.
+        
+
+#### 6. SETUP - upgrade pip
+
+        (djlawfirm) hp@ING:DjLawFirm ~ python.exe -m pip install --upgrade pip
+        Requirement already satisfied: pip in f:\_ingafter65\django-law-firm\venv3942\lib\site-packages (21.1.1)
+        Collecting pip
+          Using cached pip-23.1.2-py3-none-any.whl (2.1 MB)
+        Installing collected packages: pip
+          Attempting uninstall: pip
+            Found existing installation: pip 21.1.1
+            Uninstalling pip-21.1.1:
+              Successfully uninstalled pip-21.1.1
+        Successfully installed pip-23.1.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
 
